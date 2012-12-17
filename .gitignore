@@ -2,4 +2,6 @@ EIFGEN*
 *.bak
 *.orig
 *.swp
-
+libxs_c.a
+xs_c.o
+external/src/spec/ise/unix
